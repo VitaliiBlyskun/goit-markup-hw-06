@@ -864,7 +864,7 @@ margin-right: 30px;
   }
   
   .contact-form-checkbox:checked + .user-agree:before{
-      background-image: url(../image/vector.svg);
+      background-image: url(../image/vector-icon.svg);
       background-color: var(--accent-color);
       background-repeat: no-repeat;
       background-position: 50% 50%;
